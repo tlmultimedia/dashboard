@@ -5,8 +5,8 @@ body {
   }
   
   section {
-    background: white;
-    padding: 15px;
+    background: rgb(255, 255, 255);
+    padding: 10px;
     margin-bottom: 15px;
     border-radius: 8px;
   }
